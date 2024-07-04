@@ -29,7 +29,7 @@ export class MapComponent {
     });
   }
   mapOptions: google.maps.MapOptions = {
-    center: { lat: 40.994016, lng: 29.121954 },
+    center: { lat: 22.575279, lng: 88.453819},
     zoom: 13,
     mapTypeControl: false,
   };
